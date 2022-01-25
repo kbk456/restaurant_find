@@ -5,4 +5,4 @@ Memory CRUD DB
 
 REST API
 
-thymeleaf
+vue.js
